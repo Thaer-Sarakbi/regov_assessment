@@ -1,0 +1,2 @@
+export const AccessTokenAuth = 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI0NDJlZjM5ZGJlYjkxZjdiYTQwNTdiMmNkOTgzMjY4NSIsInN1YiI6IjY0ZjVhOThjMTIxOTdlMDBmZWE5M2E4MiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.lLRtZJF2hw3GchjtFaXsLi95HkG_TS-ip0OrxW1TBwE'
+export const APIKeyAuth = '442ef39dbeb91f7ba4057b2cd9832685'
